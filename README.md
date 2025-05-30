@@ -16,19 +16,6 @@ A fun and interactive Tic Tac Toe (Tic-Toc-Toe) game built using **HTML**, **CSS
 
 ---
 
-## 📁 Project Structure
-
-tic-toc-toe/
-│
-├── index.html # Main HTML file
-├── style.css # Styling for the game
-├── app.js # Game logic and interactivity
-└── assets/
-└── Home Page.png
-
-
----
-
 ## 🚀 How to Run
 
 1. **Clone the repository** or download the project files.
@@ -68,7 +55,20 @@ tic-toc-toe/
 
 ## 📷 Screenshot
 
-![Gameplay Screenshot](./assets/home page.png)
+### Home Page
+![Gameplay Screenshot](https://github.com/mdbakerfarhad/TIC-TOC-TOE/blob/main/assets/Home%20page.png)
+
+
+### Ongoing Game Page
+![Gameplay Screenshot](https://github.com/mdbakerfarhad/TIC-TOC-TOE/blob/main/assets/Ongoing%20Game.png)
+
+
+### Winner
+![Gameplay Screenshot](https://github.com/mdbakerfarhad/TIC-TOC-TOE/blob/main/assets/Winner.png)
+
+
+### Draw Result
+![Gameplay Screenshot](https://github.com/mdbakerfarhad/TIC-TOC-TOE/blob/main/assets/Draw%20Game.png)
 
 ---
 
