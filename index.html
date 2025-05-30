@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <title>TIC-TOC-TOE</title>
+  </head>
+  <body>
+    <main>
+      <h1>TIC-TOC-TOE</h1>
+      <header>
+        <h3>Welcome To The TIC-TOC-TOE Game!</h3>
+        <p>To play, simply click on the squares to place your mark.</p>
+        <p>Enjoy the game!</p>
+      </header>
+      <p id="turn-indicator">Player O's turn</p>
+      <div class="container">
+        <div class="game">
+          <button class="box"></button>
+          <button class="box"></button>
+          <button class="box"></button>
+          <button class="box"></button>
+          <button class="box"></button>
+          <button class="box"></button>
+          <button class="box"></button>
+          <button class="box"></button>
+          <button class="box"></button>
+        </div>
+      </div>
+      <div class="msg hide">
+        <p id="message"></p>
+      </div>
+      <div class="btn hide">
+        <button id="new-btn">New Game</button>
+        <button id="reset-btn">Reset Game</button>
+      </div>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
