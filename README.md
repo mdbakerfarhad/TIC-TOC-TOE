@@ -55,19 +55,19 @@ A fun and interactive Tic Tac Toe (Tic-Toc-Toe) game built using **HTML**, **CSS
 
 ## 📷 Screenshot
 
-### Home Page
+### 🏠 Home Page
 ![Gameplay Screenshot](https://github.com/mdbakerfarhad/TIC-TOC-TOE/blob/main/assets/Home%20page.png)
 
 
-### Ongoing Game Page
+### 🎮 Ongoing Game Page
 ![Gameplay Screenshot](https://github.com/mdbakerfarhad/TIC-TOC-TOE/blob/main/assets/Ongoing%20Game.png)
 
 
-### Winner
+### 🏆 Winner
 ![Gameplay Screenshot](https://github.com/mdbakerfarhad/TIC-TOC-TOE/blob/main/assets/Winner.png)
 
 
-### Draw Result
+### 🤝 Draw Result
 ![Gameplay Screenshot](https://github.com/mdbakerfarhad/TIC-TOC-TOE/blob/main/assets/Draw%20Game.png)
 
 ---
